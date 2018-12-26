@@ -1,0 +1,39 @@
+body{
+	background-image:url("bg1.jpg");
+	background-repeat:no-repeat;
+}
+section{
+	border:5px solid black;
+	width:400px;
+	background-color:white;
+	margin:10% 25% 7% 25%;
+	padding:1%;
+}
+div.screen{
+	border: groove;
+	width: 356px;
+	margin:10px 10px 10px 10px;
+	background:white;
+	padding: 1%;
+}
+input{
+	padding:1%;
+	font-family:Imprint MT Shadow;
+	font-size:20px;
+	border: none;
+	width:98%
+}
+.btn{
+	padding:1%;
+	font-size:20px;
+	width:22%;
+	height:10%;
+	margin:1px;
+}
+.btnon{
+	padding:1%;
+	font-size:20px;
+	width:45%;
+	height:10%;
+	margin:1px;
+}
